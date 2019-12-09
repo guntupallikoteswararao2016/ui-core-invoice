@@ -1,0 +1,2 @@
+(window.webpackJsonpInvoice=window.webpackJsonpInvoice||[]).push([[0],{3:function(e,n,t){e.exports=t(4)},4:function(e,n,t){"use strict";t.r(n);var o=t(0),c=t.n(o),r=t(2);t(9);Object(r.render)(c.a.createElement((function(){return c.a.createElement("div",null,"Welcome ",c.a.version)}),null),document.getElementById("root"))},9:function(e,n,t){}},[[3,1,2]]]);
+//# sourceMappingURL=main.254eb527.chunk.js.map
